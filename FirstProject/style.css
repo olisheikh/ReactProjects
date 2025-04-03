@@ -1,0 +1,25 @@
+section {
+    display:flex;
+    justify-content:center;
+    align-items: center;
+    max-width:100px;
+    margin:0 auto;
+    margin-top:4rem;
+}
+
+
+
+.first-backet {
+    width: 30px;
+    height: 30px;
+    float: right;  
+    margin-left: 50px;
+    margin-right: 300px;
+    rotate: 180deg;
+}
+
+.second-backet {
+    width: 30px;
+    height: 30px;
+    margin-right: 50px;
+}
